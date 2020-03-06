@@ -7,4 +7,4 @@
     ChartName = "chart/productcatalogservice"
     DockerRepo = "quay.io/hipsterstore/productcatalogservice"
     GitUrl = "https://github.com/ortelius/store-productcatalogservice"
-    HelmChart = "GLOBAL.HelmChart"
+    CustomAction = "GLOBAL.HelmChart"
